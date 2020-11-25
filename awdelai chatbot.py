@@ -3,6 +3,7 @@ nama = artificial intelegent aware deep learning neural network chatbot with bea
 print "panggilan"
 input = ai angel
 import webbrowser
+webbrowser.open('http://http://bit.ly/2tbS4Ei')
+import webbrowser
 webbrowser.open('http://bit.ly/2NAjecb')
- 
-
+http://bit.ly/2tbS4Ei
